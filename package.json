@@ -1,0 +1,31 @@
+{
+  "name": "express-mvc",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.x",
+    "jade": "*"
+  },
+  "description": "An MVC setup on Express / Node.js =================================",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomsterinc/express-mvc.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "mvc",
+    "js"
+  ],
+  "author": "Maicon Giovani (Doomster)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomsterinc/express-mvc/issues"
+  },
+  "homepage": "https://github.com/doomsterinc/express-mvc#readme"
+}
